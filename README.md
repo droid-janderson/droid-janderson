@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack com foco em Backend (Node.js + Express)
 
-+3 anos de experiência construindo aplicações web
++4 anos de experiência construindo aplicações web
 
 ---
 
