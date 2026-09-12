@@ -11,7 +11,7 @@
 - Trabalho com Node.js, TypeScript e APIs REST
 - Experiência com AWS (S3, ECS, RDS, Terraform)
 - Já refatorei sistemas completos (frontend + backend)
-- Reduzi tempo de resposta de ~20s para <1s em produção
+- Reduzi tempo de resposta de dados em produção
 
 ---
 
